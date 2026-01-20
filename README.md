@@ -17,9 +17,9 @@ Students should submit all assignments as pull requests to this repository. All 
 ## Quick Links & Overview
 |Week|Topic|Format|Due|Discussion Leader
 |:--|:--|:--|:--|:--|
-|[Week 1: Jan 29](#january-29-week-1)|Course Introduction; Programming Fundamentals|***In-Person**|||
+|[Week 1: Jan 29](#january-29-week-1)|Course Introduction; Programming Fundamentals|***In-Person***|||
 |[Week 2: Feb 5](#february-5-week-2)|Development Environment; Programming Fundamentals|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 0|Chester|
-|[Week 3: Feb 12](#february-12-week-3)|Tabular Analysis|***In-Person**|Exercise 1||
+|[Week 3: Feb 12](#february-12-week-3)|Tabular Analysis|***In-Person***|Exercise 1||
 |[Week 4: Feb 19](#february-19-week-4)|Modular Programming and Generalizability|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 1 Code Review||
 |[Week 5: Feb 26](#february-26-week-5)|Accessing and Wrangling Data|[Zoom](https://umd.zoom.us/j/95813351606)|||
 |[Week 6: Mar 5](#march-5-week-6)|Data Visualization|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 2||
@@ -32,15 +32,15 @@ Students should submit all assignments as pull requests to this repository. All 
 |[Week 12: Apr 23](#april-23-week-12)|Machine Learning|[Zoom](https://umd.zoom.us/j/95813351606)|||
 |[Week 13: Apr 30](#april-30-week-13)|Final Project Code Review Workshop|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 4||
 |[Week 14: May 7](#may-7-week-14)|Final Project Presentations|***In-Person***|||
-|[Week 15: May 12](#may-12-week-15)|Final Project Due|***NO CLASS***|Final Project Materials||
+|[Week 15: May 14](#may-14-week-15)|Final Project Due|***NO CLASS***|Final Project Materials||
 
 ## Technology
 
-[Zoom Room](https://umd.zoom.us/j/97370863271)
+[Zoom Room](https://umd.zoom.us/j/95813351606)
 
 ### Websites
 
-[GitHub](https://github.com/ncsg/ursp688y_sp2025) (Coding demos and exercises)
+[GitHub](https://github.com/ncsg/ursp688y_sp2026) (Coding demos and exercises)
 
 [ELMS-Canvas](https://umd.instructure.com/courses/1382201) (Readings, grades, and course communications)
 
@@ -126,7 +126,7 @@ Convincing proposals are crucial in both research and practice. Imagine you are 
 
 #### Project Components
 
-##### 0. Proposal Pitch (In-Class March 24th; 1 slide)
+##### 0. Proposal Pitch (In-Class March 26th; 1 slide)
 
 Make a single slide to pitch your project idea to your classmates. Consider including:
 
@@ -134,7 +134,7 @@ Make a single slide to pitch your project idea to your classmates. Consider incl
 3. Potential data sources and key steps in analysis (high-level pseudocode)
 4. Major limitations
 
-##### 1. Short Proposal (Due March 26th; 500–1,000 words)
+##### 1. Short Proposal (Due March 27th; 500–1,000 words)
 
 Write a short proposal with the following sections outlining your proposed project:
 
@@ -147,7 +147,7 @@ Write a short proposal with the following sections outlining your proposed proje
 
 Please submit on ELMS as a PDF.
 
-##### 2. Presentation (In-Class May 5th)
+##### 2. Presentation (In-Class May 7th)
 
 Please focus your presentation on these areas:
 
@@ -158,7 +158,7 @@ Please focus your presentation on these areas:
 
 In addition to your in-class presentation, please submit slides on ELMS as a PDF.
 
-##### 3. Final Product (Due May 12th; see above for recommended lengths and formats)
+##### 3. Final Product (Due May 14th; see above for recommended lengths and formats)
 
 Please submit on ELMS as a PDF with links to online content, as appropriate.
 
