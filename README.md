@@ -19,15 +19,15 @@ Students should submit all assignments as pull requests to this repository. All 
 |:--|:--|:--|:--|:--|
 |[Week 1: Jan 29](#january-29-week-1)|*Class Canceled for Snow*|***NO CLASS***||-|
 |[Week 2: Feb 5](#february-5-week-2)|Course Introduction & Programming Fundamentals|[Zoom](https://umd.zoom.us/j/95813351606)||Chester|
-|[Week 3: Feb 12](#february-12-week-3)|Tabular Analysis|***In-Person***|Exercise 0||
+|[Week 3: Feb 12](#february-12-week-3)|Tabular Analysis|***In-Person***|Exercise 0|Emmanuel|
 |[Week 4: Feb 19](#february-19-week-4)|Modular Programming and Generalizability|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 1||
-|[Week 5: Feb 26](#february-26-week-5)|Accessing and Wrangling Data|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 1 Code Review||
-|[Week 6: Mar 5](#march-5-week-6)|Geospatial Data|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 2||
+|[Week 5: Feb 26](#february-26-week-5)|Accessing and Wrangling Data|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 1 Code Review|Finn|
+|[Week 6: Mar 5](#march-5-week-6)|Geospatial Data|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 2|Dominic|
 |[Week 7: Mar 12](#march-12-week-7)|Data Visualization|***In-Person***|Exercise 2 Code Review|Chester|
 |[Spring Break](#march-19-spring-break)| 🏄 🌴 🏄 🌴 🏄 🌴 🏄 🌴 |***NO CLASS***||-|
 |[Week 8: Mar 26](#march-26-week-8)|Final Project Proposal Workshop|[Zoom](https://umd.zoom.us/j/95813351606)|Final Project Proposal|-|
 |[Week 9: Apr 2](#april-2-week-9)|Network Analysis|[Zoom](https://umd.zoom.us/j/95813351606)||Xuedi| 
-|[Week 10: Apr 9](#april-9-week-10)|Spatial Visualization|***In-Person***|Exercise 3||
+|[Week 10: Apr 9](#april-9-week-10)|Spatial Visualization|***In-Person***|Exercise 3|Siddhi|
 |[Week 11: Apr 16](#april-16-week-11)|Dashboards|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 3 Code Review||
 |[Week 12: Apr 23](#april-23-week-12)|Machine Learning|[Zoom](https://umd.zoom.us/j/95813351606)|||
 |[Week 13: Apr 30](#april-30-week-13)|Final Project Code Review Workshop|[Zoom](https://umd.zoom.us/j/95813351606)|Exercise 4||
