@@ -1,0 +1,9 @@
+ward,dog_park_count,dog_park_sqft,avg_dog_park_sqft,affordable_units,community_gardens,school_points_available
+Ward 1,2,18650,9325.0,3715,5,123
+Ward 2,3,29100,9700.0,1409,4,123
+Ward 3,4,28820,7205.0,672,8,123
+Ward 4,2,20160,10080.0,3167,11,123
+Ward 5,2,18630,9315.0,5069,13,123
+Ward 6,3,26750,8916.666666666666,6735,6,123
+Ward 7,1,10300,10300.0,5961,13,123
+Ward 8,1,12600,12600.0,10155,10,123

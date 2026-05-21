@@ -1,0 +1,27 @@
+﻿"DC Ward Demographics, Income, Household Status & Dog Parks",,,,,,,,,,,,,,,,,
+"Source: ACS 2020-2024 5-Year Estimates (Tables B01001A-I, B19013, B11001, B25003) via DC Action / DC KIDS COUNT  |  Updated January 2026",,,,,,,,,,,,,,,,,
+GEOGRAPHY,RACIAL / ETHNIC COMPOSITION (ACS 2020-2024 5-Year),,,,,,SOCIOECONOMIC,,HOUSEHOLD STATUS (ACS 2022 5-Year B11001),,,HOUSING TENURE (ACS 2022 5-Year B25003),,DOG PARKS (Open Data DC 2024),,EQUITY FLAGS,
+Ward,"% White
+(non-Hisp)",% Black,"% Hispanic
+(any race)",% Asian,"% Other /
+Multiracial","Total Pop.
+Estimate","Median HH
+Income ($)","Income
+Category","% Single-
+Person HH","% Married-
+Couple HH","% Other
+Family HH","% Renter-
+Occupied","% Owner-
+Occupied","# Dog
+Parks",Park Names,"Majority
+Race/Ethn.","Equity
+Flag"
+1,35.0%,30.0%,20.0%,7.0%,8.0%,"77,000","$85,000",Above Avg,55.0%,25.0%,20.0%,72.0%,28.0%,2,"LeDroit Park, Walter Pierce",Mixed (Hispanic-sig.),Moderate Access
+2,65.0%,10.0%,8.0%,10.0%,7.0%,"80,000","$108,000",High,58.0%,22.0%,20.0%,65.0%,35.0%,3,"S Street, Shaw, Francis",White-majority,Good Access
+3,72.0%,4.0%,7.0%,10.0%,7.0%,"79,000","$131,000",Very High,38.0%,42.0%,20.0%,38.0%,62.0%,4,"Hardy, Guy Mason, Chevy Chase, Newark",White-majority,Best Access
+4,30.0%,43.0%,17.0%,4.0%,6.0%,"85,000","$75,000",Moderate,42.0%,30.0%,28.0%,58.0%,42.0%,2,"Takoma, Upshur",Black-plurality,Moderate Access
+5,18.0%,57.0%,14.0%,5.0%,6.0%,"86,000","$62,000",Below Avg,45.0%,28.0%,27.0%,55.0%,45.0%,2,"Langdon, Alethia Tanner",Black-majority,Underserved
+6,42.0%,34.0%,10.0%,8.0%,6.0%,"87,000","$93,000",Above Avg,52.0%,28.0%,20.0%,68.0%,32.0%,3,"Kingsman, Swampoodle, Lansburgh",Mixed,Adequate Access
+7,4.0%,85.0%,5.0%,2.0%,4.0%,"74,000","$38,000",Low,45.0%,25.0%,30.0%,60.0%,40.0%,1,Texas Avenue,Black-majority,⚠ Severely Underserved
+8,5.0%,88.0%,4.0%,1.0%,2.0%,"75,000","$36,000",Very Low,48.0%,22.0%,30.0%,65.0%,35.0%,1,Virginia Avenue,Black-majority,⚠ Severely Underserved
+DC Total,33.9%,43.9%,10.6%,5.9%,5.8%,"643,000","$78,500",DC Avg / Total,47.9%,27.8%,24.4%,60.1%,39.9%,18,—,—,—
