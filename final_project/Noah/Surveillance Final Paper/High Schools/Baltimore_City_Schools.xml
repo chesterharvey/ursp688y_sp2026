@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>bcpss_school</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This dataset contains points representing public schools. It includes all BCPS elementary, middle, high and charter schools. This dataset does not include private schools.</abstract>
+            <purpose>This dataset contains points representing public schools. It includes all BCPS elementary, middle, high and charter schools. This dataset does not include private schools.</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-76.705993</westbc>
+                <eastbc>-76.530066</eastbc>
+                <northbc>39.367453</northbc>
+                <southbc>39.225133</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Education</themekey>
+                <themekey>Public School</themekey>
+                <themekey>Community</themekey>
+                <themekey>Geographic</themekey>
+                <themekey>School</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>This work is licensed under a&amp;nbsp;Creative Commons Attribution 3.0 Unported License.</useconst>
+        <datacred/>
+        <native>Esri ArcGIS 10.3.1.4959</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>Entity point</sdtstype>
+                <ptvctcnt>181</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>bcpss_school</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>BLDG_NUM</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PRG_NUM</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ADDRESS</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>CLASS</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>CATEGORY</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>x</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>y</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>GRADES</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ZIPCODE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>TYPE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Coordinates defining the features.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20150708</metd>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
